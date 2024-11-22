@@ -12,6 +12,6 @@ FEATURES:
       Role-based Access Control: Different levels of access for admin, tenant, and staff users.
       
 TECHNICAL SUPPORT:
-      Frontend:  Angular.js / Vue.js /React.js 
-      Backend: Node.js / Flask / Django
-      Database: PostgreSQL / MySQL / MongoDB
+      Frontend:  Angular.js / Vue.js /React.js ,
+      Backend: Node.js / Flask / Django ,
+      Database: PostgreSQL / MySQL / MongoDB.
